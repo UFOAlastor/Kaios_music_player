@@ -98,7 +98,9 @@ The songs are played randomly in the specified Songs List (the songs list can be
 
 The interface is simple and the function is perfect , easy to use :D
 
+
 Version introduction:
+
 
 1.3.7 official edition: By Zander Alastor. Correct the bug that there is no press effect when the key is pressed
 
@@ -120,7 +122,7 @@ Version introduction:
 
 
 
-1.3.0 official version: a small white, add volume control function (yes, even the volume can't be changed XD before)
+1.3.0 official version: By Xiaobai, add volume control function (yes, even the volume can't be changed before XD)
 
 
 
@@ -140,12 +142,12 @@ Version introduction:
 
 
 
-0.0.3 beta: Magic screen version, author?
+0.0.3 beta: Magic screen version, don't know author
 
 
 
-0.0.2 beta: liaronce correction screen scale
+0.0.2 beta: LiarOnce correction screen scale
 
 
 
-0.0.1 beta:QQ old ice transplant, mouse control, can only play, does not support the next automatically make complaints about the screen asymmetry
+0.0.1 beta: QQ Old Ice transplant, mouse control, can only play, does not support the next automatically and the screen asymmetry

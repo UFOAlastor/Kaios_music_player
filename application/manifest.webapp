@@ -1,0 +1,25 @@
+﻿{
+  "name": "网易云音乐随机播放器",
+  "description": "一个网易云音乐随机播放器",
+  "type": "privileged",
+  "launch_path": "/index.html",
+  "icons": {
+    "56": "/img/icon56.png",
+    "112": "/img/icon112.png"
+  },
+  "developer": {
+    "name": "原作者:墨渊(移植:QQ老冰)",
+    "name": "修改者:此店不售此书(Zander Alastor)",
+    "url": "https://alastor.top/"
+  },
+  "locales": {
+    "zh-CN": {
+      "name": "网易云音乐",
+      "subtitle": "一个网易云音乐随机播放器",
+      "description": "一个网易云音乐随机播放器"
+    }
+  },
+  "default_locale": "zh-CN",
+  "cursor": false,
+  "fullscreen": true
+}

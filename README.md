@@ -17,6 +17,7 @@
 
 ![165161.gif](https://i.loli.net/2020/04/08/N7j183YK9ZsRdmu.gif)
 
+
 ### 应用介绍：
 
 一款Kaios端网易云音乐随机播放器
@@ -70,19 +71,9 @@ Later updated by: 此店不售此书 (Zander alastor)
 
 ### Sample picture:
 
-
-
-
-
 ![15315.gif](https://i.loli.net/2020/04/08/fquDx7g5mhIVdBN.gif)
 
-
-
-
-
 ![165161.gif](https://i.loli.net/2020/04/08/N7j183YK9ZsRdmu.gif)
-
-
 
 ### Application Introduction:
 
